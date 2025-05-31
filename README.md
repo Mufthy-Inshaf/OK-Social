@@ -4,9 +4,34 @@ QK-Social, short for Quick Social, is an innovative GitHub tool that promises to
 
 Developer:Mufthy Inshaf
 
-upcoming versions: V1-V6  
+upcomming versions: V1-V6  
 
 Using programming Language: Python
 
 Follow on instagram: @_.inshaf._.mufthy._
 
+You can try this tool in GUI version for free: visit - https://mufthy-inshaf.github.io/UniSocial/
+
+1. Installation:
+   
+   ...Termux...
+   
+   - pkg install git
+   -  pkg install python3
+
+   ...Lnux...
+
+   - sudo apt install git
+   - sudo apt install python3
+
+3. Clone your repo:
+   - git https://mufthy-inshaf.github.io/QK-Social/
+
+4. Navigate into folder:
+   - cd QK-Social.py
+
+5. Run Python file:
+   - python3 QK-Social.py
+  
+
+  NOTE - if face any issue when run 'cd QK-Social.py' command, than you directly run 'python3 QK-Social.py' command
