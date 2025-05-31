@@ -17,20 +17,23 @@ You can try this tool in GUI version for free: visit - https://mufthy-inshaf.git
    ...Termux...
    
    - pkg install git
-   -  pkg install python3
+   - pkg install python3
 
-   ...Lnux...
+   ...Linux...
 
    - sudo apt install git
    - sudo apt install python3
 
 3. Clone your repo:
+   
    - git https://mufthy-inshaf.github.io/QK-Social/
 
-4. Navigate into folder:
+5. Navigate into folder:
+   
    - cd QK-Social.py
 
-5. Run Python file:
+7. Run Python file:
+   
    - python3 QK-Social.py
   
 
